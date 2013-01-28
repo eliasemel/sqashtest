@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/dbg/Documents/gittest/.metadata/.plugins/org.eclipse.jdt.core
+4151142545.index
+2432375206.index
+2377770645.index
